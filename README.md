@@ -1,4 +1,4 @@
-# Python_Practice
+# Python_Practice_Ex1
 Practice using functions, if, and loops.
 
 ##### Phase 0:
